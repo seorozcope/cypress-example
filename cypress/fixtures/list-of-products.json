@@ -1,0 +1,13 @@
+{
+  "products":
+  [
+    {
+      "category": "Dresses",
+      "name": "Printed Summer Dress"
+    },
+    {
+      "category": "T-shirts",
+      "name": "Faded Short Sleeve T-shirts"
+    }
+  ]
+}

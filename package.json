@@ -1,0 +1,21 @@
+{
+  "name": "my-first-test-with-cypress",
+  "version": "1.0.0",
+  "description": "testing e2e with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "e2e-test": "cypress run"
+  },
+  "keywords": [
+    "testing",
+    "e2e",
+    "cypress"
+  ],
+  "author": "sorozcop",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1",
+    "prettier": "2.4.1"
+  }
+}
